@@ -1,0 +1,10 @@
+name = "rfl-first-attempt"
+version = "0.1.0"
+defaultTargets = ["rfl-first-attempt"]
+
+[[lean_lib]]
+name = "RflFirstAttempt"
+
+[[lean_exe]]
+name = "rfl-first-attempt"
+root = "Main"
